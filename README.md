@@ -2,7 +2,7 @@
 
 <!--
 **dman82499/dman82499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+!-->
 [![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dman82499)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mallory.115@osu.edu
 - 😄 Pronouns: he/him
 
-Founder of Cyquential AI, an ai and game company - website comming soon!
+Founder of Cyquential AI, an AI and game company - website comming soon!
 discord: https://discord.gg/wWEw5Gx9J4
 
