@@ -6,7 +6,7 @@
 [![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dman82499&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 Currently working on AI, game development (formerly worked for corperate clash, now work on a UE4 first/third person survival  and cognitive modeling with architectures such as SOAR
+- 🔭 Currently working on AI, game development (formerly worked for corperate clash, now work on a UE4 first/third person survival game) and cognitive modeling with architectures such as SOAR
 - 🌱 Currently learning few shot learning techniques, including neurosymbolics and baysian program framework (BPL), as well as markov logic networks (MLN)
 - 👯 I’m looking to collaborate on any project with game development or agent-based ai!
 - 🤔 I’m looking for help with a lot of things-
