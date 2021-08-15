@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning few shot learning techniques, including neurosymbolics and baysian program framework (BPL), as well as markov logic networks (MLN)
 - 👯 I’m looking to collaborate on any project with game development or agent-based ai!
 - 🤔 I’m looking for help with a lot of things-
-- 📫 How to reach me: mallory.115@osu.edu
-- 😄 Pronouns: he/him
+- 📫 How to reach me: mallory.115@osu.edu, instagram: devan.mallory_music
 
 Founder of Cyquential AI, an AI and game company - website comming soon!
 discord: https://discord.gg/wWEw5Gx9J4
