@@ -8,7 +8,7 @@
 
 Currently working on AI, game development (formerly worked for corperate clash, now work on an Unreal Engine 5 first/third person survival game called Lydian Arcenzia) and computational cognitive modeling with architectures such as SOAR. I also work for the SENSE lab at the Ohio State University. My current research interests include few shot learning techniques, such as neurosymbolics and baysian program framework (BPL), as well as markov logic networks (MLN) and classical computer vision. I am also very interested in model based reinforcement learning.
 
-- 📫 How to reach me: mallory.115@osu.edu, Instagram: devan.mallory_music Linkedin: https://www.linkedin.com/in/devan-mallory-009109199/ 
+- How to reach me: mallory.115@osu.edu, Instagram: devan.mallory_music Linkedin: https://www.linkedin.com/in/devan-mallory-009109199/ 
 
 Founder of Cyquential AI, an AI and game company - website comming soon!
 discord: https://discord.gg/wWEw5Gx9J4
