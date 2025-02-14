@@ -10,6 +10,6 @@ Currently working on AI, game development (formerly worked for corperate clash, 
 
 - How to reach me: mallory.115@osu.edu, Instagram: devan.mallory_music Linkedin: https://www.linkedin.com/in/devan-mallory-009109199/ 
 
-Founder of Cyquential AI, an AI and game company - website comming soon!
+Founder of Cyquential AI, an AI and game company - https://www.cyquentialai.com/ !
 discord: https://discord.gg/wWEw5Gx9J4
 
